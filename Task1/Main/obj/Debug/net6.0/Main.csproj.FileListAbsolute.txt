@@ -1,5 +1,0 @@
-C:\Users\Asus\Projects\MindBox\Task1\Main\obj\Debug\net6.0\Main.csproj.AssemblyReference.cache
-C:\Users\Asus\Projects\MindBox\Task1\Main\obj\Debug\net6.0\Main.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Asus\Projects\MindBox\Task1\Main\obj\Debug\net6.0\Main.AssemblyInfoInputs.cache
-C:\Users\Asus\Projects\MindBox\Task1\Main\obj\Debug\net6.0\Main.AssemblyInfo.cs
-C:\Users\Asus\Projects\MindBox\Task1\Main\obj\Debug\net6.0\Main.csproj.CoreCompileInputs.cache
