@@ -1,20 +1,20 @@
-/*Создание БД*/
+/*Created DB*/
 create database ProductsAndCategories
 use ProductsAndCategories
 
-/*Создание таблицы продуктов*/
+/*Created Table of Products*/
 create table Products (
 	Id int primary key,
 	Products_Name varchar(255)
 );
 
-/*Создание таблицы категорий*/
+/*Created Table of Category*/
 create table Category (
 	Id int primary key,
 	Category_Name varchar(255)
 );
 
-/*Заполнение таблицы продуктов*/
+/*Inserted Values to Products table*/
 insert into Products values
 (1, 'Asus vivobook pro 15 oled'),
 (2, 'Lenovo Legion'),
@@ -22,7 +22,7 @@ insert into Products values
 (4, 'Acer Aspire'),
 (5, 'Asus Zenbook');
 
-/*Заполнение таблицы категорий*/
+/*Inserted Values to Category table*/
 insert into Category values
 (1, 'For working'),
 (2, 'For games'),
@@ -30,13 +30,13 @@ insert into Category values
 (4, 'For kids'),
 (5, 'For designers');
 
-/*Создание серединной таблицы*/
+/*Created table for categories of the products*/
 create table CategoriesForProducts (
 	ProductId int foreign key references Products(Id),
 	CategoryId int foreign key references Category(Id)
 );
 
-/*Заполнение серединной таблицы*/
+/*Inserted Values to Products and Categories table*/
 insert into CategoriesForProducts values
 (1, 1),
 (1, 3),
@@ -45,7 +45,7 @@ insert into CategoriesForProducts values
 (3, 1),
 (5, 5);
 
-/*Запрос*/
+/*Query*/
 SELECT Pr."Products_Name", Ct."Category_Name"
 FROM Products Pr
 LEFT JOIN CategoriesForProducts CtPr
