@@ -1,0 +1,12 @@
+C:\Users\Asus\Projects\MindBox\Task1\Square\bin\Debug\net6.0\Square.deps.json
+C:\Users\Asus\Projects\MindBox\Task1\Square\bin\Debug\net6.0\Square.dll
+C:\Users\Asus\Projects\MindBox\Task1\Square\bin\Debug\net6.0\Square.pdb
+C:\Users\Asus\Projects\MindBox\Task1\Square\obj\Debug\net6.0\Square.csproj.AssemblyReference.cache
+C:\Users\Asus\Projects\MindBox\Task1\Square\obj\Debug\net6.0\Square.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Projects\MindBox\Task1\Square\obj\Debug\net6.0\Square.AssemblyInfoInputs.cache
+C:\Users\Asus\Projects\MindBox\Task1\Square\obj\Debug\net6.0\Square.AssemblyInfo.cs
+C:\Users\Asus\Projects\MindBox\Task1\Square\obj\Debug\net6.0\Square.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Projects\MindBox\Task1\Square\obj\Debug\net6.0\Square.dll
+C:\Users\Asus\Projects\MindBox\Task1\Square\obj\Debug\net6.0\refint\Square.dll
+C:\Users\Asus\Projects\MindBox\Task1\Square\obj\Debug\net6.0\Square.pdb
+C:\Users\Asus\Projects\MindBox\Task1\Square\obj\Debug\net6.0\ref\Square.dll
